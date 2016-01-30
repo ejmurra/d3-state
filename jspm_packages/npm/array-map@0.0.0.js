@@ -1,0 +1,1 @@
+module.exports = require("npm:array-map@0.0.0/index.js");

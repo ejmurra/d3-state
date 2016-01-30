@@ -1,0 +1,28 @@
+{
+  "name": "state-stepper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./bin/build.sh"
+  },
+  "main": "./dist/StateStepper.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "es6-promise": "^3.0.2",
+    "jspm": "^0.16.25",
+    "typescript": "^1.7.5"
+  },
+  "jspm": {
+    "dependencies": {
+      "browserify": "npm:browserify@^13.0.0",
+      "es6-promise": "npm:es6-promise@^3.0.2"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  }
+}

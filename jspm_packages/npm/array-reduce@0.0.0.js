@@ -1,0 +1,1 @@
+module.exports = require("npm:array-reduce@0.0.0/index.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:module-deps@4.0.5/index.js");

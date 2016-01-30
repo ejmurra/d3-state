@@ -1,0 +1,1 @@
+module.exports = require("npm:lodash.memoize@3.0.4/index");

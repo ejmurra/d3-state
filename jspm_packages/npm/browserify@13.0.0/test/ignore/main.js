@@ -1,0 +1,2 @@
+/* */ 
+t.deepEqual(require('./skip'), {});

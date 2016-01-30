@@ -1,0 +1,3 @@
+/* */ 
+require('pkga');
+require('pkgb');

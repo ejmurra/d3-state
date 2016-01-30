@@ -1,0 +1,1 @@
+module.exports = require("npm:events@1.1.0/events.js");

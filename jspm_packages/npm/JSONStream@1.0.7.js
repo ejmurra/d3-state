@@ -1,0 +1,1 @@
+module.exports = require("npm:JSONStream@1.0.7/index");

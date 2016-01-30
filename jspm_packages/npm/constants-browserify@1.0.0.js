@@ -1,0 +1,1 @@
+module.exports = require("npm:constants-browserify@1.0.0/constants.json!systemjs-json");

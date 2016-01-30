@@ -1,0 +1,1 @@
+module.exports = require("npm:json-stable-stringify@0.0.1/index.js");

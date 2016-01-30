@@ -1,0 +1,1 @@
+module.exports = require("npm:umd@3.0.1/index");

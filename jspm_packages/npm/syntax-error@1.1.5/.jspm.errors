@@ -1,0 +1,11 @@
+MultipleErrors: /Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/example/src.js:5:30: Unexpected token res
+/Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/example/src.js:5:33: Unexpected token .
+/Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/example/src.js:5:34: Semi-colon expected
+/Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/example/src.js:6:9: Unexpected reserved word else
+/Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/example/src.js:6:14: Semi-colon expected
+
+MultipleErrors: /Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/test/sources/check.js:5:30: Unexpected token res
+/Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/test/sources/check.js:5:33: Unexpected token .
+/Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/test/sources/check.js:5:34: Semi-colon expected
+/Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/test/sources/check.js:6:9: Unexpected reserved word else
+/Users/emurray/.jspm/packages/npm/syntax-error@1.1.5/test/sources/check.js:6:14: Semi-colon expected
